@@ -1,6 +1,6 @@
-echo "this script has been done for replit or colab setup requieriments for SillyTavern"
+echo "this script has been done for colab setup requieriments for SillyTavern"
 echo "the script has been created by NoneCode from backdoor dev please gave me a star in the repo"
-echo "this script will install nodejs and npm like 21 or 22 version"
+echo "this script will install nodejs and npm like 21 version"
 echo "please wait and be patient"
 # the info for how install nodejs and npm recent versions is from this post: https://github.com/nodesource/distributions
 dpkg --configure -a
