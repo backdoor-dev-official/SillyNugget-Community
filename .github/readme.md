@@ -2,6 +2,7 @@ English | [中文](readme-zh_cn.md)
 
 ![SillyTavern-Banner](https://github.com/SillyTavern/SillyTavern/assets/18619528/c2be4c3f-aada-4f64-87a3-ae35a68b61a4)
 ## Original SillyTavern is: https://github.com/SillyTavern/SillyTavern please support them!
+## and the version of SillyTavern used is 1.11.1 the latest in this moment this is the link to the guide to horw to use: [Rentry](rentry.org/SillyNugget-Community)
 Mobile-friendly layout, Multi-API (KoboldAI/CPP, Horde, NovelAI, Ooba, OpenAI, OpenRouter, Claude, Scale), VN-like Waifu Mode, Stable Diffusion, TTS, WorldInfo (lorebooks), customizable UI, auto-translate, and more prompt options than you'd ever want or need + ability to install third-party extensions.
 
 Based on a fork of [TavernAI](https://github.com/TavernAI/TavernAI) 1.2.8
