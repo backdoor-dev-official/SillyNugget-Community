@@ -43,3 +43,5 @@ access.log
 /cache/
 public/css/user.css
 /plugins/
+
+replit.nix
